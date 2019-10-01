@@ -16,7 +16,7 @@ Birthed out of our Slack org, The Reformed Devs have begun monthly coding challe
 
 #### Problem
 
-Given a set of *n* letters, what is the highest scoring valid word that you can make using the set? Scoring is based on Scrabble letter point values (see `data/letters.json`). Word validity will be based on a dictionary included in the repo (`data/dictionary.txt`).
+Given a random string of letters whose length is between 4 and 7, inclusive, what is the highest scoring valid word that you can make using the set? Scoring is based on Scrabble letter point values (see `data/letters.json`). Word validity will be based on a dictionary included in the repo (`data/dictionary.txt`).
 
 Inputs will be given as a lowercase string. Dictionary file is all lowercase as well.
 
@@ -25,6 +25,10 @@ Examples:
 Given the input letters `abc` your max score would be 7. A=1, B=3, C=3, and there are multiple words that can be formed using all letters.
 
 Given the letters `iisq`, your max score would be 10. I=1, S=1, Q=10, and none of the multi letter words that can be formed score higher than just Q itself.
+
+#### Timing
+
+What should be timed? Generally speaking, nearly everything. Historically the following are excluded from your timer: Importing libraries/modules, setting constants, setting test input, printing the solution. Everything else should be inside your timer, including loading the dictionary.
 
 #### Output
 
