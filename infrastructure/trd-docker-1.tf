@@ -2,7 +2,7 @@ resource "digitalocean_droplet" "trd-docker-1" {
     image = "coreos-stable"
     name = "trd-docker-1"
     region = "nyc3"
-    size = "c-2"
+    size = "c-4"
     private_networking = true
     ssh_keys = [
         "${var.ssh_fingerprint}"
@@ -32,7 +32,7 @@ resource "digitalocean_droplet" "trd-docker-1" {
             "git checkout -b update-leaderboard",
             "./build_docker.sh",
             "./run_docker.sh",
-            "git commit -m \"Updated leaderboard\" README.md",
+            "git commit -am \"Updated leaderboard and results json.\"",
             "git push --set-upstream origin update-leaderboard"
         ]
     }
