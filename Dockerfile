@@ -39,6 +39,16 @@ ENV GOPATH /go
 ENV PATH $GOPATH/bin:/usr/local/go/bin:$PATH
 RUN mkdir -p "$GOPATH/src" "$GOPATH/bin" && chmod -R 777 "$GOPATH"
 
+# Install Crystal 0.31
+RUN curl -sL "https://keybase.io/crystal/pgp_keys.asc" | DEBIAN_FRONTEND=noninteractive apt-key add -
+RUN echo "deb https://dist.crystal-lang.org/apt crystal main" | tee /etc/apt/sources.list.d/crystal.list
+RUN DEBIAN_FRONTEND=noninteractive apt-get update
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install crystal
+
+
+
+
+
 ENV LANG=en_US.UTF-8
 
 # Run dir

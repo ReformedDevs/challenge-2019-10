@@ -82,15 +82,23 @@ If you only want to run specific directories on a local run (i.e. just test your
 
 ### Leaderboard
 
-__Inputs__: _aogpnnx, kigvvu, flzcxa, cokbfd, bkgi_
+__Inputs__: _sawk, rryzl, vosj, hhoxbja, fpmpos_
 
 Author | Language | Word | Score | Time (ms) | Notes
 --- | --- | --- | --- | --- | ---
-plusuncold | C++ | pax, kivu, zax, bock, big | 12, 11, 19, 12, 6 | 18.4 | 
-specs | Python 3 | pax, kivu, zax, bock, big | 12, 11, 19, 12, 6 | 59.92486328125 | strolling down the yeet
-cork | Node | pax, kivu, zax, bock, big | 12, 11, 19, 12, 6 | 72.25321912000001 | Put some FP and async on it
-cco3 | javascript | pax, kivu, zax, bock, big | 12, 11, 19, 12, 6 | 75.72 | sparse arrays
-zombeej | Node | pax, kivu, zax, bock, big | 12, 11, 19, 12, 6 | 83.76 | hoooo doggy
-basking2 | ruby | pax, kivu, zax, bock, big | 12, 11, 19, 12, 6 | 99.14125 | ARG: ["aogpnnx"]
-pard68 | Python3 | pox, kivu, zax, bock, big | 12, 11, 19, 12, 6 | 126.47911236000141 | gotta eat your yeeties!
+plusuncold | C++ | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 23.84 | 
+patrickcarver | Crystal | skaw, z, jos, hoax,   | 11, 10, 10, 14, 0 | 91.53127999842631 | 
+cork | Node | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 115.490124 | Put some FP and async on it
+specs | Python 3 | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 119.57140625000002 | strolling down the yeet
+cco3 | javascript | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 124.16 | sparse arrays
+zombeej | Node | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 125.23999999999998 | hoooo doggy
+basking2 | ruby | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 150.17345703125 | ARG: ["sawk"]
+pard68 | None |  , z, jos, hoax, pomp | 0, 10, 10, 14, 10 | 229.54173573439476 | Max time penalty applied
+
+### Oops
+
+Author | Input | Words | Scores
+--- | --- | --- | ---
+pard68 | sawk | kaw, kaw, kaw, kaw, kaw | 10, 10, 10, 10, 10
+patrickcarver | fpmpos | fop, fop, fop, fop, fop | 8, 8, 8, 8, 8
 
