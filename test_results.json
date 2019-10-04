@@ -3,465 +3,1437 @@
     {
       "Author": "plusuncold",
       "Language": "C++",
-      "Word": "skaw, z, jos, hoax, pomp",
-      "Score": "11, 10, 10, 14, 10",
-      "Time (ms)": 23.84,
+      "Word": "dwarf, hin, zo, jud, ju",
+      "Score": "12, 6, 11, 11, 9",
+      "Time (ms)": 23.6,
       "Notes": ""
     },
     {
       "Author": "patrickcarver",
       "Language": "Crystal",
-      "Word": "skaw, z, jos, hoax,  ",
-      "Score": "11, 10, 10, 14, 0",
-      "Time (ms)": 91.53127999842631,
-      "Notes": ""
+      "Word": "dwarf, hin, horny, jud, ju",
+      "Score": "12, 6, 11, 11, 9",
+      "Time (ms)": 54.40000000000001,
+      "Notes": "your face is a dwarf"
     },
     {
       "Author": "cork",
       "Language": "Node",
-      "Word": "skaw, z, jos, hoax, pomp",
-      "Score": "11, 10, 10, 14, 10",
-      "Time (ms)": 115.490124,
+      "Word": "dwarf, hin, horny, jud, ju",
+      "Score": "12, 6, 11, 11, 9",
+      "Time (ms)": 114.44016800000001,
       "Notes": "Put some FP and async on it"
     },
     {
       "Author": "specs",
       "Language": "Python 3",
-      "Word": "skaw, z, jos, hoax, pomp",
-      "Score": "11, 10, 10, 14, 10",
-      "Time (ms)": 119.57140625000002,
+      "Word": "dwarf, hin, zo, jud, ju",
+      "Score": "12, 6, 11, 11, 9",
+      "Time (ms)": 119.25555664062499,
       "Notes": "strolling down the yeet"
-    },
-    {
-      "Author": "cco3",
-      "Language": "javascript",
-      "Word": "skaw, z, jos, hoax, pomp",
-      "Score": "11, 10, 10, 14, 10",
-      "Time (ms)": 124.16,
-      "Notes": "sparse arrays"
     },
     {
       "Author": "zombeej",
       "Language": "Node",
-      "Word": "skaw, z, jos, hoax, pomp",
-      "Score": "11, 10, 10, 14, 10",
-      "Time (ms)": 125.23999999999998,
+      "Word": "dwarf, hin, horny, jud, ju",
+      "Score": "12, 6, 11, 11, 9",
+      "Time (ms)": 125.0,
       "Notes": "hoooo doggy"
+    },
+    {
+      "Author": "cco3",
+      "Language": "javascript",
+      "Word": "dwarf, hin, horny, jud, ju",
+      "Score": "12, 6, 11, 11, 9",
+      "Time (ms)": 126.55999999999999,
+      "Notes": "sparse arrays"
     },
     {
       "Author": "basking2",
       "Language": "ruby",
-      "Word": "skaw, z, jos, hoax, pomp",
-      "Score": "11, 10, 10, 14, 10",
-      "Time (ms)": 150.17345703125,
-      "Notes": "ARG: [\"sawk\"]"
+      "Word": "dwarf, hin, horny, jud, ju",
+      "Score": "12, 6, 11, 11, 9",
+      "Time (ms)": 146.32442382812502,
+      "Notes": "ARG: [\"rdaswpf\"]"
     },
     {
       "Author": "pard68",
-      "Word": " , z, jos, hoax, pomp",
-      "Score": "0, 10, 10, 14, 10",
-      "Time (ms)": 229.54173573439476,
-      "Notes": "Max time penalty applied"
+      "Language": "Python3",
+      "Word": "dwarf, hin, zo, jud, ju",
+      "Score": "12, 6, 11, 11, 9",
+      "Time (ms)": 207.48817199841142,
+      "Notes": "gotta eat your yeeties!"
     }
   ],
   "Correct": {
-    "sawk": [
+    "rdaswpf": [
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 23.84,
+        "Word": "dwarf, hin, zo, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 23.6,
         "Notes": ""
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "skaw, z, jos, hoax,  ",
-        "Score": "11, 10, 10, 14, 0",
-        "Time (ms)": 91.53127999842631,
-        "Notes": ""
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 119.57140625000002,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 125.23999999999998,
-        "Notes": "hoooo doggy"
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 54.40000000000001,
+        "Notes": "your face is a dwarf"
       },
       {
         "Author": "cork",
         "Language": "Node",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 115.490124,
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 114.44016800000001,
         "Notes": "Put some FP and async on it"
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 124.16,
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 126.55999999999999,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "dwarf, hin, zo, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 119.25555664062499,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 125.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 146.32442382812502,
+        "Notes": "ARG: [\"rdaswpf\"]"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf, hin, zo, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 207.48817199841142,
+        "Notes": "gotta eat your yeeties!"
+      }
+    ],
+    "vnih": [
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 17.8,
+        "Notes": ""
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 45.2,
+        "Notes": "your face is a hin"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 63.67667999875266,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 112.9704,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 115.802880859375,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 118.2,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 123.6,
         "Notes": "sparse arrays"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 150.17345703125,
-        "Notes": "ARG: [\"sawk\"]"
-      },
-      {
-        "Author": "pard68",
-        "Word": " , z, jos, hoax, pomp",
-        "Score": "0, 10, 10, 14, 10",
-        "Time (ms)": 229.54173573439476,
-        "Notes": "Max time penalty applied"
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 146.803125,
+        "Notes": "ARG: [\"vnih\"]"
       }
     ],
-    "rryzl": [
+    "nyzhro": [
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 20.8,
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 27.2,
         "Notes": ""
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 42.8,
-        "Notes": ""
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 113.532861328125,
-        "Notes": "strolling down the yeet"
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 60.2,
+        "Notes": "your face is a horny"
       },
       {
         "Author": "cork",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 116.86489999999999,
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 114.41774000000001,
         "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 124.830712890625,
+        "Notes": "strolling down the yeet"
       },
       {
         "Author": "zombeej",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 123.8,
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 127.8,
         "Notes": "hoooo doggy"
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "z",
-        "Score": 10,
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 128.8,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 145.98701171875,
+        "Notes": "ARG: [\"nyzhro\"]"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 268.3314399968367,
+        "Notes": "gotta eat your yeeties!"
+      }
+    ],
+    "wrujd": [
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 21.2,
+        "Notes": ""
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 46.8,
+        "Notes": "your face is a jud"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 115.56748,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 116.59111328125,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "jud",
+        "Score": 11,
         "Time (ms)": 124.6,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 128.2,
         "Notes": "sparse arrays"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 130.50039999652654,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 129.86880000098608,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 147.836328125,
-        "Notes": "ARG: [\"rryzl\"]"
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 143.48154296875,
+        "Notes": "ARG: [\"wrujd\"]"
       }
     ],
-    "vosj": [
+    "usjc": [
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "jos",
-        "Score": 10,
+        "Word": "ju",
+        "Score": 9,
         "Time (ms)": 19.6,
         "Notes": ""
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 41.2,
-        "Notes": ""
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 40.6,
+        "Notes": "your face is a ju"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 64.67814000207,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 61.508439999306574,
         "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 112.74895999999998,
-        "Notes": "Put some FP and async on it"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 113.16005859375,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 108.63662109375,
         "Notes": "strolling down the yeet"
       },
       {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 119.6,
-        "Notes": "sparse arrays"
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 110.96502000000001,
+        "Notes": "Put some FP and async on it"
       },
       {
         "Author": "zombeej",
         "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 123.2,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 114.8,
         "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 124.6,
+        "Notes": "sparse arrays"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 149.415185546875,
-        "Notes": "ARG: [\"vosj\"]"
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 148.5099609375,
+        "Notes": "ARG: [\"usjc\"]"
       }
-    ],
-    "hhoxbja": [
+    ]
+  },
+  "Incorrect": [],
+  "Raw results": {
+    "rdaswpf": [
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "dwarf, hin, zo, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 119.25555664062499,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 128.002197265625,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 124.1591796875,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 129.69189453125,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 132.9716796875,
+        "Notes": "strolling down the yeet"
+      },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 34.6,
+        "Word": "dwarf, hin, zo, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 23.6,
         "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 33.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 32.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 32.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 31.0,
+        "Notes": ""
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 126.55999999999999,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 130.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 121.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 139.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 126.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 114.44016800000001,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 117.1275,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 118.2766,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 121.1716,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 114.4876,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 146.32442382812502,
+        "Notes": "ARG: [\"rdaswpf\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 147.770263671875,
+        "Notes": "ARG: [\"rdaswpf\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 145.69140625,
+        "Notes": "ARG: [\"rdaswpf\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 148.67626953125,
+        "Notes": "ARG: [\"rdaswpf\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 146.24365234375,
+        "Notes": "ARG: [\"rdaswpf\"]"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 125.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 140.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 144.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 138.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 135.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf, hin, zo, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 207.48817199841142,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 513.4181999892462,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 504.58949999301694,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 508.9765000011539,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 529.1160000051605,
+        "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 56.4,
-        "Notes": ""
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 54.40000000000001,
+        "Notes": "your face is a dwarf"
       },
       {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 116.8327,
-        "Notes": "Put some FP and async on it"
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 81.0,
+        "Notes": "your face is a dwarf"
       },
       {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 122.4,
-        "Notes": "sparse arrays"
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 81.0,
+        "Notes": "your face is a dwarf"
       },
       {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 135.6,
-        "Notes": "hoooo doggy"
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 78.0,
+        "Notes": "your face is a dwarf"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 79.0,
+        "Notes": "your face is a dwarf"
+      }
+    ],
+    "vnih": [
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 115.802880859375,
+        "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 138.479443359375,
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 107.142578125,
         "Notes": "strolling down the yeet"
       },
       {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 149.532421875,
-        "Notes": "ARG: [\"hhoxbja\"]"
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 127.8701171875,
+        "Notes": "strolling down the yeet"
       },
       {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 530.0181800004793,
-        "Notes": "gotta eat your yeeties!"
-      }
-    ],
-    "fpmpos": [
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 114.728515625,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 112.30810546875,
+        "Notes": "strolling down the yeet"
+      },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 24.8,
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 17.8,
         "Notes": ""
       },
       {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 114.52150000000002,
-        "Notes": "Put some FP and async on it"
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 17.0,
+        "Notes": ""
       },
       {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 122.31005859375,
-        "Notes": "strolling down the yeet"
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 18.0,
+        "Notes": ""
       },
       {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 130.0,
-        "Notes": "hoooo doggy"
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 19.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 18.0,
+        "Notes": ""
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 133.6,
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 123.6,
         "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 119.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 115.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 124.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 129.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 112.9704,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 110.0123,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 113.8054,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 118.9391,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 106.6321,
+        "Notes": "Put some FP and async on it"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 152.464990234375,
-        "Notes": "ARG: [\"fpmpos\"]"
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 146.803125,
+        "Notes": "ARG: [\"vnih\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 147.920654296875,
+        "Notes": "ARG: [\"vnih\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 152.927978515625,
+        "Notes": "ARG: [\"vnih\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 143.891357421875,
+        "Notes": "ARG: [\"vnih\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 145.063232421875,
+        "Notes": "ARG: [\"vnih\"]"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 118.2,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 117.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 132.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 115.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 115.0,
+        "Notes": "hoooo doggy"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 269.3823200010229,
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 63.67667999875266,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 60.87440000555944,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 66.51289999717847,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 65.52350000129081,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 64.69919999653939,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "patrickcarver",
-        "Word": " ",
-        "Score": 0,
-        "Time (ms)": 274.8563999921316,
-        "Notes": "Max time penalty applied"
+        "Language": "Crystal",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 45.2,
+        "Notes": "your face is a hin"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 42.0,
+        "Notes": "your face is a hin"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 47.0,
+        "Notes": "your face is a hin"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 46.0,
+        "Notes": "your face is a hin"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 47.0,
+        "Notes": "your face is a hin"
       }
-    ]
-  },
-  "Incorrect": [
-    {
-      "Author": "pard68",
-      "Input": "sawk",
-      "Words": "kaw, kaw, kaw, kaw, kaw",
-      "Scores": "10, 10, 10, 10, 10"
-    },
-    {
-      "Author": "patrickcarver",
-      "Input": "fpmpos",
-      "Words": "fop, fop, fop, fop, fop",
-      "Scores": "8, 8, 8, 8, 8"
-    }
-  ],
-  "Raw results": {
-    "sawk": [
+    ],
+    "nyzhro": [
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 119.57140625000002,
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 124.830712890625,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "skaw",
+        "Word": "zo",
         "Score": 11,
-        "Time (ms)": 112.474853515625,
+        "Time (ms)": 125.485595703125,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "skaw",
+        "Word": "zo",
         "Score": 11,
-        "Time (ms)": 113.867431640625,
+        "Time (ms)": 117.98583984375,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "skaw",
+        "Word": "zo",
         "Score": 11,
-        "Time (ms)": 110.99853515625,
+        "Time (ms)": 139.77001953125,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "skaw",
+        "Word": "zo",
         "Score": 11,
-        "Time (ms)": 107.414306640625,
+        "Time (ms)": 124.315185546875,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 23.84,
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 27.2,
         "Notes": ""
       },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "skaw",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 29.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 27.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 28.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 25.0,
+        "Notes": ""
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 128.8,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 126.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 119.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 153.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 122.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 114.41774000000001,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 112.4763,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 114.9548,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 113.1415,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 117.4149,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 145.98701171875,
+        "Notes": "ARG: [\"nyzhro\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 148.13671875,
+        "Notes": "ARG: [\"nyzhro\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 143.3486328125,
+        "Notes": "ARG: [\"nyzhro\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 144.119384765625,
+        "Notes": "ARG: [\"nyzhro\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 146.66064453125,
+        "Notes": "ARG: [\"nyzhro\"]"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 127.8,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 124.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 130.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 133.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 124.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 268.3314399968367,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 268.5209000046598,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 265.2312999998685,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 269.5872999902349,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 266.6583999962313,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 60.2,
+        "Notes": "your face is a horny"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 56.0,
+        "Notes": "your face is a horny"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 62.0,
+        "Notes": "your face is a horny"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 60.0,
+        "Notes": "your face is a horny"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 59.0,
+        "Notes": "your face is a horny"
+      }
+    ],
+    "wrujd": [
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 116.59111328125,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 115.052490234375,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 112.3623046875,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 128.326904296875,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 119.316162109375,
+        "Notes": "strolling down the yeet"
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 21.2,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 20.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 19.0,
+        "Notes": ""
+      },
+      {
+        "Author": "plusuncold",
+        "Language": "C++",
+        "Word": "jud",
         "Score": 11,
         "Time (ms)": 25.0,
         "Notes": ""
@@ -469,1554 +1441,572 @@
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "skaw",
+        "Word": "jud",
         "Score": 11,
-        "Time (ms)": 18.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 18.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 19.0,
+        "Time (ms)": 22.0,
         "Notes": ""
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 124.16,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 128.2,
         "Notes": "sparse arrays"
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "skaw",
+        "Word": "jud",
         "Score": 11,
-        "Time (ms)": 114.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 123.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 130.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 116.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 115.490124,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 116.8465,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 111.7864,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 114.9894,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 118.1294,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 150.17345703125,
-        "Notes": "ARG: [\"sawk\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 152.83154296875,
-        "Notes": "ARG: [\"sawk\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 150.743896484375,
-        "Notes": "ARG: [\"sawk\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 151.057861328125,
-        "Notes": "ARG: [\"sawk\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 153.129638671875,
-        "Notes": "ARG: [\"sawk\"]"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "skaw, z, jos, hoax, pomp",
-        "Score": "11, 10, 10, 14, 10",
-        "Time (ms)": 125.23999999999998,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 112.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 117.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 112.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 115.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "kaw",
-        "Score": 10,
-        "Time (ms)": 66.79270000313409,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "kaw",
-        "Score": 10,
-        "Time (ms)": 63.53119999403134,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "kaw",
-        "Score": 10,
-        "Time (ms)": 63.023800001246855,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "kaw",
-        "Score": 10,
-        "Time (ms)": 65.34380000084639,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "kaw",
-        "Score": 10,
-        "Time (ms)": 67.70140001026448,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "skaw, z, jos, hoax,  ",
-        "Score": "11, 10, 10, 14, 0",
-        "Time (ms)": 91.53127999842631,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 44.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 39.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 40.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "skaw",
-        "Score": 11,
-        "Time (ms)": 47.0,
-        "Notes": ""
-      }
-    ],
-    "rryzl": [
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 113.532861328125,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 112.63623046875,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 109.4794921875,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 120.56640625,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 114.628662109375,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 20.8,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 21.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 21.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 21.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 21.0,
-        "Notes": ""
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 124.6,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 116.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "z",
-        "Score": 10,
         "Time (ms)": 122.0,
         "Notes": "sparse arrays"
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 141.0,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 121.0,
         "Notes": "sparse arrays"
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 131.0,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 151.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 124.0,
         "Notes": "sparse arrays"
       },
       {
         "Author": "cork",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 116.86489999999999,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 115.56748,
         "Notes": "Put some FP and async on it"
       },
       {
         "Author": "cork",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 127.2329,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 106.1282,
         "Notes": "Put some FP and async on it"
       },
       {
         "Author": "cork",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 118.1272,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 119.9047,
         "Notes": "Put some FP and async on it"
       },
       {
         "Author": "cork",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 113.3359,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 110.3993,
         "Notes": "Put some FP and async on it"
       },
       {
         "Author": "cork",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 113.4442,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 121.9093,
         "Notes": "Put some FP and async on it"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 147.836328125,
-        "Notes": "ARG: [\"rryzl\"]"
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 143.48154296875,
+        "Notes": "ARG: [\"wrujd\"]"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 149.288818359375,
-        "Notes": "ARG: [\"rryzl\"]"
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 143.593994140625,
+        "Notes": "ARG: [\"wrujd\"]"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 150.79931640625,
-        "Notes": "ARG: [\"rryzl\"]"
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 144.683349609375,
+        "Notes": "ARG: [\"wrujd\"]"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 142.925537109375,
-        "Notes": "ARG: [\"rryzl\"]"
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 141.99560546875,
+        "Notes": "ARG: [\"wrujd\"]"
       },
       {
         "Author": "basking2",
         "Language": "ruby",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 148.953369140625,
-        "Notes": "ARG: [\"rryzl\"]"
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 144.512939453125,
+        "Notes": "ARG: [\"wrujd\"]"
       },
       {
         "Author": "zombeej",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 123.8,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 124.6,
         "Notes": "hoooo doggy"
       },
       {
         "Author": "zombeej",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 121.0,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 126.0,
         "Notes": "hoooo doggy"
       },
       {
         "Author": "zombeej",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
+        "Word": "jud",
+        "Score": 11,
         "Time (ms)": 124.0,
         "Notes": "hoooo doggy"
       },
       {
         "Author": "zombeej",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 127.0,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 123.0,
         "Notes": "hoooo doggy"
       },
       {
         "Author": "zombeej",
         "Language": "Node",
-        "Word": "z",
-        "Score": 10,
+        "Word": "jud",
+        "Score": 11,
         "Time (ms)": 123.0,
         "Notes": "hoooo doggy"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 130.50039999652654,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 129.86880000098608,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 127.96319999324623,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 130.66470000194386,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 130.96999999834225,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 125.91990000510123,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 129.0348000038648,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 133.4255999972811,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 127.59019999066368,
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 125.70730000152253,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 42.8,
-        "Notes": ""
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 46.8,
+        "Notes": "your face is a jud"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 43.0,
-        "Notes": ""
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 46.0,
+        "Notes": "your face is a jud"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 40.0,
-        "Notes": ""
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 47.0,
+        "Notes": "your face is a jud"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 44.0,
-        "Notes": ""
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 49.0,
+        "Notes": "your face is a jud"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "z",
-        "Score": 10,
-        "Time (ms)": 40.0,
-        "Notes": ""
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 46.0,
+        "Notes": "your face is a jud"
       }
     ],
-    "vosj": [
+    "usjc": [
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 113.16005859375,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 108.63662109375,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 110.840087890625,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 109.21728515625,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 118.15576171875,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 100.239013671875,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 113.155517578125,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 116.607177734375,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "specs",
         "Language": "Python 3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 111.035400390625,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 112.326904296875,
         "Notes": "strolling down the yeet"
       },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "jos",
-        "Score": 10,
+        "Word": "ju",
+        "Score": 9,
         "Time (ms)": 19.6,
         "Notes": ""
       },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "jos",
-        "Score": 10,
+        "Word": "ju",
+        "Score": 9,
         "Time (ms)": 20.0,
         "Notes": ""
       },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 21.0,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 23.0,
         "Notes": ""
       },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "jos",
-        "Score": 10,
+        "Word": "ju",
+        "Score": 9,
         "Time (ms)": 18.0,
         "Notes": ""
       },
       {
         "Author": "plusuncold",
         "Language": "C++",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 20.0,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 21.0,
         "Notes": ""
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 119.6,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 124.6,
         "Notes": "sparse arrays"
       },
       {
         "Author": "cco3",
         "Language": "javascript",
-        "Word": "jos",
-        "Score": 10,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 119.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 122.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 142.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 126.0,
+        "Notes": "sparse arrays"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 110.96502000000001,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 112.2166,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 116.3798,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 106.3967,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 107.8277,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 148.5099609375,
+        "Notes": "ARG: [\"usjc\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 150.82421875,
+        "Notes": "ARG: [\"usjc\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 146.104248046875,
+        "Notes": "ARG: [\"usjc\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 155.666748046875,
+        "Notes": "ARG: [\"usjc\"]"
+      },
+      {
+        "Author": "basking2",
+        "Language": "ruby",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 145.749755859375,
+        "Notes": "ARG: [\"usjc\"]"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 114.8,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 111.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 113.0,
+        "Notes": "hoooo doggy"
+      },
+      {
+        "Author": "zombeej",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
         "Time (ms)": 117.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 114.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 129.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 118.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 112.74895999999998,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 113.882,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 116.4362,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 114.3211,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 105.2749,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 149.415185546875,
-        "Notes": "ARG: [\"vosj\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 151.035888671875,
-        "Notes": "ARG: [\"vosj\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 150.357421875,
-        "Notes": "ARG: [\"vosj\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 148.530029296875,
-        "Notes": "ARG: [\"vosj\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 146.75634765625,
-        "Notes": "ARG: [\"vosj\"]"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 123.2,
         "Notes": "hoooo doggy"
       },
       {
         "Author": "zombeej",
         "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 130.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 120.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 122.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 118.0,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 116.0,
         "Notes": "hoooo doggy"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 64.67814000207,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 61.508439999306574,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 63.92020000203047,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 60.49659999553114,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 67.41320001310669,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 62.36699999135453,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 63.95749999501277,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 61.08860000676941,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "pard68",
         "Language": "Python3",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 65.80100000428502,
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 62.00099999841768,
         "Notes": "gotta eat your yeeties!"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 41.2,
-        "Notes": ""
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 40.6,
+        "Notes": "your face is a ju"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 43.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 41.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "jos",
-        "Score": 10,
+        "Word": "ju",
+        "Score": 9,
         "Time (ms)": 40.0,
-        "Notes": ""
+        "Notes": "your face is a ju"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "jos",
-        "Score": 10,
-        "Time (ms)": 37.0,
-        "Notes": ""
-      }
-    ],
-    "hhoxbja": [
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 138.479443359375,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 132.8779296875,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 131.82421875,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 156.39990234375,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 135.07568359375,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 34.6,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 37.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 38.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 33.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 32.0,
-        "Notes": ""
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 122.4,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 114.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 122.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 135.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 123.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 116.8327,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 116.4385,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 115.8713,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 116.1235,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 119.644,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 149.532421875,
-        "Notes": "ARG: [\"hhoxbja\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 151.846923828125,
-        "Notes": "ARG: [\"hhoxbja\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 146.190673828125,
-        "Notes": "ARG: [\"hhoxbja\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 146.575927734375,
-        "Notes": "ARG: [\"hhoxbja\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 147.200439453125,
-        "Notes": "ARG: [\"hhoxbja\"]"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 135.6,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 133.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 138.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 133.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 140.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 530.0181800004793,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 527.2820000100182,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 527.5325999973575,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 526.3706999976421,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 531.7001999937929,
-        "Notes": "gotta eat your yeeties!"
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 40.0,
+        "Notes": "your face is a ju"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 56.4,
-        "Notes": ""
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 41.0,
+        "Notes": "your face is a ju"
       },
       {
         "Author": "patrickcarver",
         "Language": "Crystal",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 61.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 55.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 55.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "hoax",
-        "Score": 14,
-        "Time (ms)": 56.0,
-        "Notes": ""
-      }
-    ],
-    "fpmpos": [
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 122.31005859375,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 118.399658203125,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 114.998046875,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 136.017578125,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "specs",
-        "Language": "Python 3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 121.21435546875,
-        "Notes": "strolling down the yeet"
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 24.8,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 24.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 26.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 26.0,
-        "Notes": ""
-      },
-      {
-        "Author": "plusuncold",
-        "Language": "C++",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 23.0,
-        "Notes": ""
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 133.6,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 127.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 124.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 156.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cco3",
-        "Language": "javascript",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 130.0,
-        "Notes": "sparse arrays"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 114.52150000000002,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 110.4825,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 116.4688,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 113.7986,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "cork",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 116.1149,
-        "Notes": "Put some FP and async on it"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 152.464990234375,
-        "Notes": "ARG: [\"fpmpos\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 159.641357421875,
-        "Notes": "ARG: [\"fpmpos\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 148.406005859375,
-        "Notes": "ARG: [\"fpmpos\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 149.524658203125,
-        "Notes": "ARG: [\"fpmpos\"]"
-      },
-      {
-        "Author": "basking2",
-        "Language": "ruby",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 153.338134765625,
-        "Notes": "ARG: [\"fpmpos\"]"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 130.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 124.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 135.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 128.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "zombeej",
-        "Language": "Node",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 131.0,
-        "Notes": "hoooo doggy"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 269.3823200010229,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 262.0429999951739,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 274.8563999921316,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 274.449899996398,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "pard68",
-        "Language": "Python3",
-        "Word": "pomp",
-        "Score": 10,
-        "Time (ms)": 266.0675000079209,
-        "Notes": "gotta eat your yeeties!"
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "fop",
-        "Score": 8,
-        "Time (ms)": 46.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "fop",
-        "Score": 8,
-        "Time (ms)": 45.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "fop",
-        "Score": 8,
-        "Time (ms)": 46.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "fop",
-        "Score": 8,
-        "Time (ms)": 46.0,
-        "Notes": ""
-      },
-      {
-        "Author": "patrickcarver",
-        "Language": "Crystal",
-        "Word": "fop",
-        "Score": 8,
-        "Time (ms)": 45.0,
-        "Notes": ""
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 41.0,
+        "Notes": "your face is a ju"
       }
     ]
   }

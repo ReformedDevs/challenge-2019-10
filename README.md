@@ -82,23 +82,16 @@ If you only want to run specific directories on a local run (i.e. just test your
 
 ### Leaderboard
 
-__Inputs__: _sawk, rryzl, vosj, hhoxbja, fpmpos_
+__Inputs__: _rdaswpf, vnih, nyzhro, wrujd, usjc_
 
 Author | Language | Word | Score | Time (ms) | Notes
 --- | --- | --- | --- | --- | ---
-plusuncold | C++ | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 23.84 | 
-patrickcarver | Crystal | skaw, z, jos, hoax,   | 11, 10, 10, 14, 0 | 91.53127999842631 | 
-cork | Node | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 115.490124 | Put some FP and async on it
-specs | Python 3 | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 119.57140625000002 | strolling down the yeet
-cco3 | javascript | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 124.16 | sparse arrays
-zombeej | Node | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 125.23999999999998 | hoooo doggy
-basking2 | ruby | skaw, z, jos, hoax, pomp | 11, 10, 10, 14, 10 | 150.17345703125 | ARG: ["sawk"]
-pard68 | None |  , z, jos, hoax, pomp | 0, 10, 10, 14, 10 | 229.54173573439476 | Max time penalty applied
-
-### Oops
-
-Author | Input | Words | Scores
---- | --- | --- | ---
-pard68 | sawk | kaw, kaw, kaw, kaw, kaw | 10, 10, 10, 10, 10
-patrickcarver | fpmpos | fop, fop, fop, fop, fop | 8, 8, 8, 8, 8
+plusuncold | C++ | dwarf, hin, zo, jud, ju | 12, 6, 11, 11, 9 | 23.6 | 
+patrickcarver | Crystal | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 54.40000000000001 | your face is a dwarf
+cork | Node | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 114.44016800000001 | Put some FP and async on it
+specs | Python 3 | dwarf, hin, zo, jud, ju | 12, 6, 11, 11, 9 | 119.25555664062499 | strolling down the yeet
+zombeej | Node | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 125.0 | hoooo doggy
+cco3 | javascript | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 126.55999999999999 | sparse arrays
+basking2 | ruby | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 146.32442382812502 | ARG: ["rdaswpf"]
+pard68 | Python3 | dwarf, hin, zo, jud, ju | 12, 6, 11, 11, 9 | 207.48817199841142 | gotta eat your yeeties!
 

@@ -1,33 +1,20 @@
 require "json"
 
-USER     = "patrickcarver"
-LANGUAGE = "Crystal"
-NOTES    = ""
-
 START_TIME = Time.monotonic
 
-INPUT = {size: ARGV[0].size, letter_count: letter_count(ARGV[0].chars)}
-
-LETTER_SCORES =
-  JSON
-    .parse(File.read("../data/letters.json"))
-    .as_h
-    .transform_keys { |key| key.char_at(0) }
-    .transform_values { |value| value["score"].as_i }
-
-WORDS = File.read_lines("../data/dictionary.txt")
+INPUT_DATA    = size_and_letter_count(ARGV[0])
+LETTER_SCORES = letter_scores_from_json("../data/letters.json")
+WORDS         = File.read_lines("../data/dictionary.txt")
 
 memo = {word: "", score: 0}
 
 WORDS.each do |word|
-  word_size = word.size
-
-  if word_size <= INPUT[:size]
+  if word.size <= INPUT_DATA[:size]
     word_chars = word.chars
-    word_letter_count = letter_count(word.chars)
+    word_letter_count = letter_count(word_chars)
 
-    if is_subset(INPUT[:letter_count], word_letter_count)
-      score = word_chars.reduce(0) { |acc, letter| acc + LETTER_SCORES[letter] }
+    if is_subset(INPUT_DATA[:letter_count], word_letter_count)
+      score = score(word_chars)
 
       if score > memo[:score]
         memo = {word: word, score: score}
@@ -48,19 +35,38 @@ def letter_count(word)
 end
 
 def is_subset(superset, subset)
-  subset.each do |letter, _|
-    return false if letter_count_does_not_match(superset[letter], subset[letter])
+  subset.each do |letter, count|
+    return false if superset[letter] != count
   end
 
   true
 end
 
-def letter_count_does_not_match(superset_letter, subset_letter)
-  superset_letter == 0 || (subset_letter != superset_letter)
+def size_and_letter_count(input)
+  {size: input.size, letter_count: letter_count(input.chars)}
+end
+
+def letter_scores_from_json(file)
+  JSON
+    .parse(File.read(file))
+    .as_h
+    .transform_keys { |key| key.char_at(0) }
+    .transform_values { |value| value["score"].as_i }
+end
+
+def score(word_chars)
+  word_chars.reduce(0) { |acc, letter| acc + LETTER_SCORES[letter] }
 end
 
 STOP_TIME = Time.monotonic
 
 EXECUTION_TIME = (STOP_TIME - START_TIME).milliseconds
 
-puts [USER, LANGUAGE, memo[:word], memo[:score], EXECUTION_TIME, NOTES].join(", ")
+puts [
+  "patrickcarver",
+  "Crystal",
+  memo[:word],
+  memo[:score],
+  EXECUTION_TIME,
+  "your face is a #{memo[:word]}",
+].join(", ")
