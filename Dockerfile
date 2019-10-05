@@ -45,10 +45,6 @@ RUN echo "deb https://dist.crystal-lang.org/apt crystal main" | tee /etc/apt/sou
 RUN DEBIAN_FRONTEND=noninteractive apt-get update
 RUN DEBIAN_FRONTEND=noninteractive apt-get -y install crystal
 
-
-
-
-
 ENV LANG=en_US.UTF-8
 
 # Run dir
