@@ -1,6 +1,6 @@
 #!/bin/bash
 # Assumes you have Docker and curl installed
-TAG=2019.10.2
+TAG=2019.10.3
 function pull {
     docker pull drewpearce/trd-challenge:$TAG
 }

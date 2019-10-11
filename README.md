@@ -71,6 +71,7 @@ The Docker image is now moved to its own repo and is hosted on Dockerhub.
 The image tagged 2019.10 currently supports these languages:
 
 * C/C++
+* .NET
 * Node 11
 * Python 3.6
 * Ruby
