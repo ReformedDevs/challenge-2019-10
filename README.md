@@ -89,20 +89,20 @@ If you only want to run specific directories on a local run (i.e. just test your
 
 ### Leaderboard
 
-__Test timestamp__: 2019-10-08T13:54
+__Test timestamp__: 2019-10-11T14:41
 
-__Inputs__: _hdai, inerl, morqu, nhywc, uffvtd_
+__Inputs__: _biguvc, kubvltr, biszruj, gomuh, wxvbcu_
 
 Author | Language | Word | Score | Time (ms) | Notes
 --- | --- | --- | --- | --- | ---
-plusuncold | C++ | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 5.56 | 
-pard68 | Rust | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 13.920847880000002 | Give me `iter()` or give me death
-pard68 | Python3 | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 49.54075807999914 | snek can snek into snek
-cco3 | javascript | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 63.8 | sparse arrays
-cork | Node | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 63.8421604 | Put some FP and async on it
-zombeej | Node | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 72.76000000000002 | small gainz at 10/8/2019
-specs | Python 3 | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 96.97626953125 | strolling down the yeet
-Kyle Nweeia | Python 3 | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 101.32387483999949 | 
-basking2 | ruby | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 106.752978515625 | ARG: ["hdai"]
-cco3 | javascript | dhai, liner, quo, why, duff | 8, 5, 12, 12, 11 | 161.28000000000003 | obscure
+plusuncold | C++ | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 8.0 | 
+pard68 | Rust | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 20.15566468 | Give me `iter()` or give me death
+cork | Node | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 63.468391159999996 | Put some FP and async on it
+cco3 | javascript | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 65.96 | sparse arrays
+zombeej | Node | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 69.20277616 | aannngggeerrrr
+specs | Python 3 | uvic, bulk, biz, ohm, x | 9, 10, 14, 8, 8 | 79.351064453125 | strolling down the yeet
+pard68 | Python3 | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 101.89739804000112 | snek can snek into snek
+Kyle Nweeia | Python 3 | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 102.30636132000132 | 
+basking2 | ruby | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 108.264443359375 | ARG: ["biguvc"]
+cco3 | javascript | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 205.48000000000002 | obscure
 
