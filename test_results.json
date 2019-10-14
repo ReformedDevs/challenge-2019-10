@@ -130,6 +130,14 @@
         "id": "javascript-cco3"
       },
       {
+        "Author": "specs",
+        "Language": "Python 3",
+        "Word": "dwarf, hin, zo, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 119.25555664062499,
+        "Notes": "strolling down the yeet"
+      },
+      {
         "Author": "zombeej",
         "Language": "Node",
         "Word": "uvic, bulk, biz, hugo, x",
@@ -341,6 +349,14 @@
         "id": "python-kyle-nweeia"
       },
       {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 128.8,
+        "Notes": "sparse arrays"
+      },
+      {
         "Author": "basking2",
         "Language": "ruby",
         "Word": "biz",
@@ -471,6 +487,14 @@
         "id": "cpp-plusuncold"
       },
       {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 40.6,
+        "Notes": "your face is a ju"
+      },
+      {
         "Author": "pard68",
         "Language": "Rust",
         "Word": "x",
@@ -532,6 +556,14 @@
         "Time (ms)": 101.7827254000025,
         "Notes": "snek can snek into snek",
         "id": "python-pard68"
+      },
+      {
+        "Author": "cco3",
+        "Language": "javascript",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 124.6,
+        "Notes": "sparse arrays"
       },
       {
         "Author": "basking2",
@@ -1099,6 +1131,88 @@
         "id": "node-zombeej"
       },
       {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf, hin, zo, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 207.48817199841142,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 513.4181999892462,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 504.58949999301694,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 508.9765000011539,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 529.1160000051605,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf, hin, horny, jud, ju",
+        "Score": "12, 6, 11, 11, 9",
+        "Time (ms)": 54.40000000000001,
+        "Notes": "your face is a dwarf"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 81.0,
+        "Notes": "your face is a dwarf"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 81.0,
+        "Notes": "your face is a dwarf"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 78.0,
+        "Notes": "your face is a dwarf"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "dwarf",
+        "Score": 12,
+        "Time (ms)": 79.0,
+        "Notes": "your face is a dwarf"
+      }
+    ],
+    "vnih": [
+      {
         "Author": "specs",
         "Language": "Python 3",
         "Word": "bulk",
@@ -1412,6 +1526,46 @@
         "Time (ms)": 21.289889,
         "Notes": "Give me `iter()` or give me death",
         "id": "rust-pard68"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 112.9704,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 110.0123,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 113.8054,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 118.9391,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "hin",
+        "Score": 6,
+        "Time (ms)": 106.6321,
+        "Notes": "Put some FP and async on it"
       },
       {
         "Author": "basking2",
@@ -1866,6 +2020,46 @@
         "id": "rust-pard68"
       },
       {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 114.41774000000001,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 112.4763,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 114.9548,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 113.1415,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 117.4149,
+        "Notes": "Put some FP and async on it"
+      },
+      {
         "Author": "basking2",
         "Language": "ruby",
         "Word": "biz",
@@ -2002,6 +2196,88 @@
         "Notes": "aannngggeerrrr",
         "id": "node-zombeej"
       },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 268.3314399968367,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 268.5209000046598,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "zo",
+        "Score": 11,
+        "Time (ms)": 265.2312999998685,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 269.5872999902349,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 266.6583999962313,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 60.2,
+        "Notes": "your face is a horny"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 56.0,
+        "Notes": "your face is a horny"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 62.0,
+        "Notes": "your face is a horny"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 60.0,
+        "Notes": "your face is a horny"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "horny",
+        "Score": 11,
+        "Time (ms)": 59.0,
+        "Notes": "your face is a horny"
+      }
+    ],
+    "wrujd": [
       {
         "Author": "specs",
         "Language": "Python 3",
@@ -2455,6 +2731,88 @@
         "id": "node-zombeej"
       },
       {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 129.86880000098608,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 130.66470000194386,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 125.91990000510123,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 133.4255999972811,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "pard68",
+        "Language": "Python3",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 125.70730000152253,
+        "Notes": "gotta eat your yeeties!"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 46.8,
+        "Notes": "your face is a jud"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 46.0,
+        "Notes": "your face is a jud"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 47.0,
+        "Notes": "your face is a jud"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 49.0,
+        "Notes": "your face is a jud"
+      },
+      {
+        "Author": "patrickcarver",
+        "Language": "Crystal",
+        "Word": "jud",
+        "Score": 11,
+        "Time (ms)": 46.0,
+        "Notes": "your face is a jud"
+      }
+    ],
+    "usjc": [
+      {
         "Author": "specs",
         "Language": "Python 3",
         "Word": "x",
@@ -2768,6 +3126,46 @@
         "Time (ms)": 20.666054,
         "Notes": "Give me `iter()` or give me death",
         "id": "rust-pard68"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 110.96502000000001,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 112.2166,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 116.3798,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 106.3967,
+        "Notes": "Put some FP and async on it"
+      },
+      {
+        "Author": "cork",
+        "Language": "Node",
+        "Word": "ju",
+        "Score": 9,
+        "Time (ms)": 107.8277,
+        "Notes": "Put some FP and async on it"
       },
       {
         "Author": "basking2",
