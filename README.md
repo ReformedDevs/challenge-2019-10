@@ -89,20 +89,31 @@ If you only want to run specific directories on a local run (i.e. just test your
 
 ### Leaderboard
 
-__Test timestamp__: 2019-10-11T14:41
+__Test timestamp__: 2019-10-14T13:28
 
-__Inputs__: _biguvc, kubvltr, biszruj, gomuh, wxvbcu_
+__Inputs__: _qoedtfc, qypcur, mnahw, hdokl, ppznybn_
 
 Author | Language | Word | Score | Time (ms) | Notes
 --- | --- | --- | --- | --- | ---
-plusuncold | C++ | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 8.0 | 
-pard68 | Rust | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 20.15566468 | Give me `iter()` or give me death
-cork | Node | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 63.468391159999996 | Put some FP and async on it
-cco3 | javascript | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 65.96 | sparse arrays
-zombeej | Node | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 69.20277616 | aannngggeerrrr
-specs | Python 3 | uvic, bulk, biz, ohm, x | 9, 10, 14, 8, 8 | 79.351064453125 | strolling down the yeet
-pard68 | Python3 | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 101.89739804000112 | snek can snek into snek
-Kyle Nweeia | Python 3 | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 102.30636132000132 | 
-basking2 | ruby | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 108.264443359375 | ARG: ["biguvc"]
-cco3 | javascript | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 205.48000000000002 | obscure
+pathfinder216 | Python 3 | z | 10 | 0.07047395706176758 | optimized grute force
+plusuncold | C++ | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 7.76 | 
+pard68 | Rust | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 19.841952319999997 | Give me `iter()` or give me death
+patrickcarver | Crystal | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 36.760000000000005 | your face is a q
+zombeej | Node | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 62.628654919999995 | aannngggeerrrr
+cork | Node | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 63.5079028 | Put some FP and async on it
+cco3 | javascript | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 63.879999999999995 | sparse arrays
+specs | Python 3 | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 73.935205078125 | strolling down the yeet
+Kyle Nweeia | Python 3 | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 95.97217344000296 | 
+pard68 | Python3 | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 99.6175736799978 | snek can snek into snek
+basking2 | ruby | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 103.73923828124998 | ARG: ["qoedtfc"]
+cco3 | javascript | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 158.72 | obscure
+
+### Oops
+
+ID | Input | Words | Scores
+--- | --- | --- | ---
+python-pathfinder216 | qoedtfc | toed, toed, toed, toed, toed | 5, 5, 5, 5, 5
+python-pathfinder216 | qypcur | yr, yr, yr, yr, yr | 5, 5, 5, 5, 5
+python-pathfinder216 | mnahw | whan, whan, whan, whan, whan | 10, 10, 10, 10, 10
+python-pathfinder216 | hdokl | old, old, old, old, old | 4, 4, 4, 4, 4
 
