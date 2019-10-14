@@ -1,6 +1,6 @@
 # The Reformed Devs Monthly Challenge
 
-## Month Year
+## October 2019
 
 ### Background
 
@@ -63,35 +63,46 @@ See the `example` directory for more guidance.
 
 ### Running the Tests (I.e. Docker and Stuff)
 
-The Docker image currently supports these languages:
+The Docker image is now moved to its own repo and is hosted on Dockerhub.
+
+* [Source](https://github.com/ReformedDevs/challenge-docker)
+* [Dockerhub](https://hub.docker.com/r/drewpearce/trd-challenge)
+
+The image tagged 2019.10 currently supports these languages:
 
 * C/C++
-* Python 3.6
-* Go 1.12.8
-* Rust
+* .NET
 * Node 11
-* PHP 7.2
+* Python 3.6
+* Ruby
+* Rust
+
+If you want to add support for another language, you can make a PR to the Source repo referenced above. If you need help, come on over to the #monthly-challenge channel on our Slack.
 
 You can build the container locally by running `./build_docker.sh`.
 
 You can run the container lcoally by running `./run_docker.sh` after building the container.
 
-You can run the tests locally (assuming you have all the language support installed) by running `python run_tests.py`.
+You can run the tests locally (assuming you have all the language support installed) by running `python(3) run_solutions.py`.
 
-If you only want to run specific directories on a local run (i.e. just test your solution), run `python run_tests.py comma-separated,list-of,solution-dirs`.
+If you only want to run specific directories on a local run (i.e. just test your solution), run `python(3) run_solutions.py comma-separated,list-of,solution-dirs`.
 
 ### Leaderboard
 
-__Inputs__: _rdaswpf, vnih, nyzhro, wrujd, usjc_
+__Test timestamp__: 2019-10-11T14:41
+
+__Inputs__: _biguvc, kubvltr, biszruj, gomuh, wxvbcu_
 
 Author | Language | Word | Score | Time (ms) | Notes
 --- | --- | --- | --- | --- | ---
-plusuncold | C++ | dwarf, hin, zo, jud, ju | 12, 6, 11, 11, 9 | 23.6 | 
-patrickcarver | Crystal | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 54.40000000000001 | your face is a dwarf
-cork | Node | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 114.44016800000001 | Put some FP and async on it
-specs | Python 3 | dwarf, hin, zo, jud, ju | 12, 6, 11, 11, 9 | 119.25555664062499 | strolling down the yeet
-zombeej | Node | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 125.0 | hoooo doggy
-cco3 | javascript | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 126.55999999999999 | sparse arrays
-basking2 | ruby | dwarf, hin, horny, jud, ju | 12, 6, 11, 11, 9 | 146.32442382812502 | ARG: ["rdaswpf"]
-pard68 | Python3 | dwarf, hin, zo, jud, ju | 12, 6, 11, 11, 9 | 207.48817199841142 | gotta eat your yeeties!
+plusuncold | C++ | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 8.0 | 
+pard68 | Rust | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 20.15566468 | Give me `iter()` or give me death
+cork | Node | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 63.468391159999996 | Put some FP and async on it
+cco3 | javascript | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 65.96 | sparse arrays
+zombeej | Node | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 69.20277616 | aannngggeerrrr
+specs | Python 3 | uvic, bulk, biz, ohm, x | 9, 10, 14, 8, 8 | 79.351064453125 | strolling down the yeet
+pard68 | Python3 | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 101.89739804000112 | snek can snek into snek
+Kyle Nweeia | Python 3 | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 102.30636132000132 | 
+basking2 | ruby | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 108.264443359375 | ARG: ["biguvc"]
+cco3 | javascript | uvic, bulk, biz, hugo, x | 9, 10, 14, 8, 8 | 205.48000000000002 | obscure
 
