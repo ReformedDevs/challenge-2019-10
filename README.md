@@ -89,31 +89,21 @@ If you only want to run specific directories on a local run (i.e. just test your
 
 ### Leaderboard
 
-__Test timestamp__: 2019-10-14T13:28
+__Test timestamp__: 2019-10-14T13:49
 
-__Inputs__: _qoedtfc, qypcur, mnahw, hdokl, ppznybn_
+__Inputs__: _deuabi, amubhmz, rwjolup, ldaseta, qijc_
 
 Author | Language | Word | Score | Time (ms) | Notes
 --- | --- | --- | --- | --- | ---
-pathfinder216 | Python 3 | z | 10 | 0.07047395706176758 | optimized grute force
-plusuncold | C++ | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 7.76 | 
-pard68 | Rust | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 19.841952319999997 | Give me `iter()` or give me death
-patrickcarver | Crystal | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 36.760000000000005 | your face is a q
-zombeej | Node | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 62.628654919999995 | aannngggeerrrr
-cork | Node | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 63.5079028 | Put some FP and async on it
-cco3 | javascript | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 63.879999999999995 | sparse arrays
-specs | Python 3 | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 73.935205078125 | strolling down the yeet
-Kyle Nweeia | Python 3 | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 95.97217344000296 | 
-pard68 | Python3 | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 99.6175736799978 | snek can snek into snek
-basking2 | ruby | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 103.73923828124998 | ARG: ["qoedtfc"]
-cco3 | javascript | q, upcry, hawm, kohl, z | 10, 12, 12, 11, 10 | 158.72 | obscure
-
-### Oops
-
-ID | Input | Words | Scores
---- | --- | --- | ---
-python-pathfinder216 | qoedtfc | toed, toed, toed, toed, toed | 5, 5, 5, 5, 5
-python-pathfinder216 | qypcur | yr, yr, yr, yr, yr | 5, 5, 5, 5, 5
-python-pathfinder216 | mnahw | whan, whan, whan, whan, whan | 10, 10, 10, 10, 10
-python-pathfinder216 | hdokl | old, old, old, old, old | 4, 4, 4, 4, 4
+plusuncold | C++ | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 6.6 | 
+pard68 | Rust | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 17.21393064 | Give me `iter()` or give me death
+patrickcarver | Crystal | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 50.84 | your face is a abide
+cork | Node | daube, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 61.43886184 | Put some FP and async on it
+cco3 | javascript | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 62.0 | sparse arrays
+zombeej | Node | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 62.64621536 | aannngggeerrrr
+specs | Python 3 | daube, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 74.893798828125 | strolling down the yeet
+pard68 | Python3 | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 89.72478251999974 | snek can snek into snek
+Kyle Nweeia | Python 3 | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 98.5962341199984 | 
+basking2 | ruby | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 104.04958984375 | ARG: ["deuabi"]
+cco3 | javascript | abide, za, jowl, estadal, q | 8, 11, 14, 8, 10 | 157.87999999999997 | obscure
 
