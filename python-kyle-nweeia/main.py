@@ -8,21 +8,20 @@ def read_letter_scores(filename='../data/letters.json'):
         return json.loads(letters.read())
 
 
-def is_legal(word, input_letters):
+def is_legal(word, tile_freq):
+    tiles = tile_freq.keys()
     for letter in word:
-        if letter not in input_letters:
-            return False
-    for letter in input_letters:
-        if word.count(letter) > input_letters.count(letter):
+        if letter not in tiles or word.count(letter) > tile_freq[letter]:
             return False
     return True
 
 
 def get_legal_words(tiles, filename='../data/dictionary.txt'):
     limit = len(tiles)
+    tile_freq = {letter: tiles.count(letter) for letter in set(tiles)}
     with open(filename) as dictionary:
         parse = [line.strip().replace('-', '') for line in dictionary]
-        return [x for x in parse if len(x) <= limit and is_legal(x, tiles)]
+        return [x for x in parse if len(x) <= limit and is_legal(x, tile_freq)]
 
 
 def get_score(word, letter_scores):
